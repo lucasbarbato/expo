@@ -1,0 +1,45 @@
+*{
+    margin:0px 0px 0px 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 60vw;
+    color:white;
+}
+
+article h1{
+    font-size: 2vw;
+}
+article{
+    font-size: 1.5vw;
+
+    height: 15vw;
+}
+section{
+    text-align: center;
+}
+#api{
+background-color: rgb(69, 94, 74);
+}
+#Swagger{
+ background-color: rgb(112, 153, 129);
+}
+#crud{
+    background-color: rgb(93, 145, 158);
+}
+#spa{
+    background-color: rgb(66, 99, 114);
+}
+
+header{
+ padding: 10px;
+      text-align: center;
+    background-color:rgb(46, 46, 46);
+    font-size: 2vw;
+    width: 99vw;
+}
